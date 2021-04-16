@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @henry-lai
 - 👀 I’m interested in Computing, specifically in the fields of machine learning and big data.
-- 🌱 I’m currently learning adapting a CPU Scheduling framework into a pthread application to improve CPU core execution efficiency
+- 🌱 I’m currently adapting a CPU Scheduling framework into a pthread application to evaluate the schedulers performance.
 - 📫 How to reach me: Email - henrylaiwy@gmail.com, LinkedIn - https://www.linkedin.com/in/henry-lai-23663516b
 
 <!---
